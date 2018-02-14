@@ -1,0 +1,10 @@
+*.o
+*.ppm
+*.swp
+*.jpg
+test_fractale
+test_parser
+test_ppm
+tests_couleur
+biomorphes
+images
